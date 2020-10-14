@@ -10,12 +10,15 @@
   "dependencies": {
     "expo": "~37.0.3",
     "firebase": "^7.23.0",
+    "logkitty": "^0.7.1",
+    "mem": "^8.0.0",
     "native-base": "^2.13.12",
     "node-fetch": "^2.6.1",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
-    "react-native-web": "~0.11.7"
+    "react-native-web": "~0.11.7",
+    "yargs-parser": "^20.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
